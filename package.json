@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "bun --watch src/index.ts",
-    "start": "bun src/index.ts",
+    "start": "bun x prisma generate && bun src/index.ts",
     "db:push": "bun x prisma db push",
     "db:pull": "bun x prisma db pull",
     "db:generate": "bun x prisma generate"
