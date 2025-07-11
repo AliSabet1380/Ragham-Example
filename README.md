@@ -38,6 +38,6 @@ bun dev
 
 # Explanations
 
--- This project is simular to MVC architecture but has some differences
--- I Tried to make it modular and easy to understand
--- I its compatible with micro-services architecture
+- This project is simular to MVC architecture but has some differences
+- I Tried to make it modular and easy to understand
+- I its compatible with micro-services architecture
