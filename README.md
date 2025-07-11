@@ -35,3 +35,9 @@ bun dev
 - the env file is important, so i use remove it from .gitignore
 - you can add your own database connection string in .env file and change the database type in prisma/schema.prisma
 - add your own prettier config in .prettierrc file
+
+# Explanations
+
+-- This project is simular to MVC architecture but has some differences
+-- I Tried to make it modular and easy to understand
+-- I its compatible with micro-services architecture
