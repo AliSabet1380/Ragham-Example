@@ -1,6 +1,6 @@
 # Ragham Co Example
 
-## Clone the repo and install dependencies via `npm` or `yarn` or `pnpm` or `bun`:
+## Clone the repo and install dependencies via `bun`:
 
 ```bash
 
